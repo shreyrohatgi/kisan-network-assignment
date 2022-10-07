@@ -23,3 +23,4 @@ Assignment for kisan network
 
 ## Important Node
 * For sending messages, I have used Twilio Free Trial Account. In this to reduce span, the number first have to be verified in the twilio account with the help of OTP. So currently only "+917696461330" is working. 
+* Deployed at -> https://kisan-network-assignment-p38am3793-shreyrohatgi.vercel.app/
